@@ -1,0 +1,5 @@
+subdir('mfem')
+subdir('libconfig')
+subdir('CLI11')
+subdir('libcomposition')
+subdir('gridfire')

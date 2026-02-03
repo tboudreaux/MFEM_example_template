@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/4D-STAR/GridFire
+revision = v0.7.6rc3.3
+depth = 1
+
+[provide]
+gridfire = gridfire_dep
